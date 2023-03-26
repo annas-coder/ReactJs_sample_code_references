@@ -1,0 +1,744 @@
+[
+    {
+      "userName": "Nataraj M",
+      "empID": "NPI2112",
+      "role": "GM",
+      "segment": "NDPS",
+      "parentID": "NPI0025",
+      "state": "TAMIL NADU",
+      "children": [
+        {
+          "userName": "Maniganda",
+          "empID": "NPI0344",
+          "role": "BDM",
+          "segment": "NDPS",
+          "parentID": "NPI2112",
+          "state": "TAMIL NADU",
+          "children": [
+            {
+              "userName": "Selvakumar MP",
+              "empID": "NPI3730",
+              "role": "BDE",
+              "segment": "NDPS",
+              "parentID": "NPI0344",
+              "state": "TAMIL NADU",
+              "children": [
+                {
+                  "userName": "Antho Rathis",
+                  "empID": "9840145279",
+                  "role": "PSA",
+                  "segment": "NDPS",
+                  "parentID": "NPI3730",
+                  "state": "TAMIL NADU",
+                  "children": []
+                },
+                {
+                  "userName": "Unnikrishnan",
+                  "empID": "7305074263",
+                  "role": "PSA",
+                  "segment": "NDPS",
+                  "parentID": "NPI3730",
+                  "state": "TAMIL NADU",
+                  "children": []
+                },
+                {
+                  "userName": "Gautham",
+                  "empID": "7305074260",
+                  "role": "PSA",
+                  "segment": "NDPS",
+                  "parentID": "NPI3730",
+                  "state": "TAMIL NADU",
+                  "children": []
+                },
+                {
+                  "userName": "Justin Jebakumar",
+                  "empID": "9750492911",
+                  "role": "PSA",
+                  "segment": "NDPS",
+                  "parentID": "NPI3730",
+                  "state": "TAMIL NADU",
+                  "children": []
+                },
+                {
+                  "userName": "Kiran Kumar",
+                  "empID": "8489708942",
+                  "role": "PSA",
+                  "segment": "NDPS",
+                  "parentID": "NPI3730",
+                  "state": "TAMIL NADU",
+                  "children": []
+                },
+                {
+                  "userName": "Manikandan",
+                  "empID": "8870382393",
+                  "role": "PSA",
+                  "segment": "NDPS",
+                  "parentID": "NPI3730",
+                  "state": "TAMIL NADU",
+                  "children": []
+                },
+                {
+                  "userName": "Rahul Harimurugadas",
+                  "empID": "9944431156",
+                  "role": "PSA",
+                  "segment": "NDPS",
+                  "parentID": "NPI3730",
+                  "state": "TAMIL NADU",
+                  "children": []
+                },
+                {
+                  "userName": "Ramu Kadil",
+                  "empID": "9952294465",
+                  "role": "PSA",
+                  "segment": "NDPS",
+                  "parentID": "NPI3730",
+                  "state": "TAMIL NADU",
+                  "children": []
+                },
+                {
+                  "userName": "Sri Hari",
+                  "empID": "8015725289",
+                  "role": "PSA",
+                  "segment": "NDPS",
+                  "parentID": "NPI3730",
+                  "state": "TAMIL NADU",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "userName": "Balachander",
+              "empID": "NPI4002",
+              "role": "BDE",
+              "segment": "NDPS",
+              "parentID": "NPI0344",
+              "state": "TAMIL NADU",
+              "children": [
+                {
+                  "userName": "Kaleel Basha",
+                  "empID": "9342054876",
+                  "role": "PSA",
+                  "segment": "NDPS",
+                  "parentID": "NPI4002",
+                  "state": "TAMIL NADU",
+                  "children": []
+                },
+                {
+                  "userName": "Syed Nayeem",
+                  "empID": "9840989800",
+                  "role": "PSA",
+                  "segment": "NDPS",
+                  "parentID": "NPI4002",
+                  "state": "TAMIL NADU",
+                  "children": []
+                },
+                {
+                  "userName": "Vinod Kumar",
+                  "empID": "9176466069",
+                  "role": "PSA",
+                  "segment": "NDPS",
+                  "parentID": "NPI4002",
+                  "state": "TAMIL NADU",
+                  "children": []
+                },
+                {
+                  "userName": "Byju",
+                  "empID": "7871673140",
+                  "role": "PSA",
+                  "segment": "NDPS",
+                  "parentID": "NPI4002",
+                  "state": "TAMIL NADU",
+                  "children": []
+                },
+                {
+                  "userName": "Arun Kumar",
+                  "empID": "8608778997",
+                  "role": "PSA",
+                  "segment": "NDPS",
+                  "parentID": "NPI4002",
+                  "state": "TAMIL NADU",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "userName": "Venkatesh",
+          "empID": "NPI0707",
+          "role": "RM",
+          "segment": "NDPS",
+          "parentID": "NPI2112",
+          "state": "TAMIL NADU",
+          "children": [
+            {
+              "userName": "Elumalai M",
+              "empID": "NPI2111",
+              "role": "CH",
+              "segment": "NDPS",
+              "parentID": "NPI0707",
+              "state": "TAMIL NADU",
+              "children": [
+                {
+                  "userName": "Ajith Kanna",
+                  "empID": "NPI3538",
+                  "role": "SO",
+                  "segment": "NDPS",
+                  "parentID": "NPI2111",
+                  "state": "TAMIL NADU",
+                  "children": []
+                },
+                {
+                  "userName": "Ismath Batza",
+                  "empID": "NPI4007",
+                  "role": "SO",
+                  "segment": "NDPS",
+                  "parentID": "NPI2111",
+                  "state": "TAMIL NADU",
+                  "children": []
+                },
+                {
+                  "userName": "Kalai Arasan",
+                  "empID": "NPI3913",
+                  "role": "SO",
+                  "segment": "NDPS",
+                  "parentID": "NPI2111",
+                  "state": "TAMIL NADU",
+                  "children": []
+                },
+                {
+                  "userName": "Kamesh",
+                  "empID": "NPI3706",
+                  "role": "SO",
+                  "segment": "NDPS",
+                  "parentID": "NPI2111",
+                  "state": "TAMIL NADU",
+                  "children": []
+                },
+                {
+                  "userName": "Kevin Suresh Kumar",
+                  "empID": "NPI3978",
+                  "role": "SO",
+                  "segment": "NDPS",
+                  "parentID": "NPI2111",
+                  "state": "TAMIL NADU",
+                  "children": []
+                },
+                {
+                  "userName": "Mohamed Asif Ali",
+                  "empID": "NPI3536",
+                  "role": "SO",
+                  "segment": "NDPS",
+                  "parentID": "NPI2111",
+                  "state": "TAMIL NADU",
+                  "children": []
+                },
+                {
+                  "userName": "Noor Mohamed",
+                  "empID": "NPI3637",
+                  "role": "SO",
+                  "segment": "NDPS",
+                  "parentID": "NPI2111",
+                  "state": "TAMIL NADU",
+                  "children": []
+                },
+                {
+                  "userName": "Pavithran R",
+                  "empID": "NPI3535",
+                  "role": "SO",
+                  "segment": "NDPS",
+                  "parentID": "NPI2111",
+                  "state": "TAMIL NADU",
+                  "children": []
+                },
+                {
+                  "userName": "Saravanan Kumar",
+                  "empID": "NPI3624",
+                  "role": "SO",
+                  "segment": "NDPS",
+                  "parentID": "NPI2111",
+                  "state": "TAMIL NADU",
+                  "children": []
+                },
+                {
+                  "userName": "Sivaramakrishnan S",
+                  "empID": "NPI3916",
+                  "role": "SO",
+                  "segment": "NDPS",
+                  "parentID": "NPI2111",
+                  "state": "TAMIL NADU",
+                  "children": []
+                },
+                {
+                  "userName": "Vishal V",
+                  "empID": "NPI3571",
+                  "role": "SO",
+                  "segment": "NDPS",
+                  "parentID": "NPI2111",
+                  "state": "TAMIL NADU",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "userName": "Balaji M",
+              "empID": "NPI4222",
+              "role": "CH",
+              "segment": "NDPS",
+              "parentID": "NPI0707",
+              "state": "TAMIL NADU",
+              "children": [
+                {
+                  "userName": "Suri",
+                  "empID": "NPI4237",
+                  "role": "SO",
+                  "segment": "NDPS",
+                  "parentID": "NPI4222",
+                  "state": "TAMIL NADU",
+                  "children": []
+                },
+                {
+                  "userName": "Ismath",
+                  "empID": "NPI4007",
+                  "role": "SO",
+                  "segment": "NDPS",
+                  "parentID": "NPI4222",
+                  "state": "TAMIL NADU",
+                  "children": []
+                },
+                {
+                  "userName": "Kalaiarasan",
+                  "empID": "NPI3913",
+                  "role": "SO",
+                  "segment": "NDPS",
+                  "parentID": "NPI4222",
+                  "state": "TAMIL NADU",
+                  "children": []
+                },
+                {
+                  "userName": "Kevin",
+                  "empID": "NPI3978",
+                  "role": "SO",
+                  "segment": "NDPS",
+                  "parentID": "NPI4222",
+                  "state": "TAMIL NADU",
+                  "children": []
+                },
+                {
+                  "userName": "Sivaramakrishnan S",
+                  "empID": "NPI3916",
+                  "role": "SO",
+                  "segment": "NDPS",
+                  "parentID": "NPI4222",
+                  "state": "TAMIL NADU",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "userName": "Shankara Naarayanan G",
+          "empID": "NPI2945",
+          "role": "GM",
+          "segment": "NDPS",
+          "parentID": "NPI2112",
+          "state": "TAMIL NADU",
+          "children": [
+            {
+              "userName": "Prasad R",
+              "empID": "NPI2355",
+              "role": "BDM",
+              "segment": "NDPS",
+              "parentID": "NPI2945",
+              "state": "TAMIL NADU",
+              "children": [
+                {
+                  "userName": "Guruprasath",
+                  "empID": "NPI2990",
+                  "role": "BDE",
+                  "segment": "NDPS",
+                  "parentID": "NPI2355",
+                  "state": "TAMIL NADU",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "userName": "BHARATH  RAJA",
+      "empID": "NPI3474",
+      "role": "GM",
+      "segment": "NEO",
+      "parentID": "NPI0025",
+      "state": "TAMIL NADU",
+      "children": [
+        {
+          "userName": "AJAY VASUDEVAN",
+          "empID": "9744030000",
+          "role": "Operations Consultant",
+          "segment": "NEO",
+          "parentID": "NPI3474",
+          "state": "TAMIL NADU",
+          "children": []
+        },
+        {
+          "userName": "SUMITA  HAZARIKA",
+          "empID": "NPI3598",
+          "role": "Lead Operations",
+          "segment": "NEO",
+          "parentID": "NPI3474",
+          "state": "TAMIL NADU",
+          "children": [
+            {
+              "userName": "Chandni",
+              "empID": "9566039615",
+              "role": "Ops Trainee",
+              "segment": "NEO",
+              "parentID": "NPI3598",
+              "state": "TAMIL NADU",
+              "children": []
+            },
+            {
+              "userName": "Chandni",
+              "empID": "9566039615",
+              "role": "Ops Trainee",
+              "segment": "NEO",
+              "parentID": "NPI3598",
+              "state": "KARNATAKA",
+              "children": []
+            }
+          ]
+        },
+        {
+          "userName": "ABBINNAYA  D",
+          "empID": "NPI3644",
+          "role": "Service Marketing Manager",
+          "segment": "NEO",
+          "parentID": "NPI3474",
+          "state": "TAMIL NADU",
+          "children": []
+        },
+        {
+          "userName": "RAMAPRASANTH  PALANIKUMAR",
+          "empID": "NPI3985",
+          "role": "CH",
+          "segment": "NEO",
+          "parentID": "NPI3474",
+          "state": "TAMIL NADU",
+          "children": [
+            {
+              "userName": "DOMNIC VARMA T",
+              "empID": "NPI3935",
+              "role": "SE",
+              "segment": "NEO",
+              "parentID": "NPI3985",
+              "state": "TAMIL NADU",
+              "children": [
+                {
+                  "userName": "Dinesh Vasantha",
+                  "empID": "8072362042",
+                  "role": "SO",
+                  "segment": "NEO",
+                  "parentID": "NPI3935",
+                  "state": "TAMIL NADU",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "userName": "Vishnuvarthan R",
+              "empID": "9677754593",
+              "role": "PO",
+              "segment": "NEO",
+              "parentID": "NPI3985",
+              "state": "TAMIL NADU",
+              "children": []
+            }
+          ]
+        },
+        {
+          "userName": "ROHITH  RAMKISHAN",
+          "empID": "NPI3873",
+          "role": "Neo Partner Manager",
+          "segment": "NEO",
+          "parentID": "NPI3474",
+          "state": "TAMIL NADU",
+          "children": []
+        },
+        {
+          "userName": "GOWTHAMAN  D",
+          "empID": "NPI2257",
+          "role": "CH",
+          "segment": "NEO",
+          "parentID": "NPI3474",
+          "state": "TAMIL NADU",
+          "children": [
+            {
+              "userName": "SURENDHAR  NANDHAKUMAR",
+              "empID": "NPI4028",
+              "role": "SE",
+              "segment": "NEO",
+              "parentID": "NPI2257",
+              "state": "TAMIL NADU",
+              "children": [
+                {
+                  "userName": "Ameenul Althaf A",
+                  "empID": "8189987809",
+                  "role": "SO",
+                  "segment": "NEO",
+                  "parentID": "NPI4028",
+                  "state": "TAMIL NADU",
+                  "children": []
+                },
+                {
+                  "userName": "Mohamed Thoufic M",
+                  "empID": "8870122008",
+                  "role": "SO",
+                  "segment": "NEO",
+                  "parentID": "NPI4028",
+                  "state": "TAMIL NADU",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "userName": "Selwin Manasa Sudhakaran",
+              "empID": "9952965762",
+              "role": "PO",
+              "segment": "NEO",
+              "parentID": "NPI2257",
+              "state": "TAMIL NADU",
+              "children": []
+            }
+          ]
+        },
+        {
+          "userName": "VACANT- NC CH",
+          "empID": "9092167832",
+          "role": "CH",
+          "segment": "NEO",
+          "parentID": "NPI3474",
+          "state": "TAMIL NADU",
+          "children": [
+            {
+              "userName": "PACHAIAPPAN  G",
+              "empID": "NPI3951",
+              "role": "SE",
+              "segment": "NEO",
+              "parentID": "9092167832",
+              "state": "TAMIL NADU",
+              "children": [
+                {
+                  "userName": "Vignesh R",
+                  "empID": "9655999000",
+                  "role": "SO",
+                  "segment": "NEO",
+                  "parentID": "NPI3951",
+                  "state": "TAMIL NADU",
+                  "children": []
+                },
+                {
+                  "userName": "Munishkumar T",
+                  "empID": "9600022590",
+                  "role": "SO",
+                  "segment": "NEO",
+                  "parentID": "NPI3951",
+                  "state": "TAMIL NADU",
+                  "children": []
+                },
+                {
+                  "userName": "Jagadeeswaran Langeswaran",
+                  "empID": "8072584875",
+                  "role": "SO",
+                  "segment": "NEO",
+                  "parentID": "NPI3951",
+                  "state": "TAMIL NADU",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "userName": "Yuvaraj R",
+              "empID": "8098498716",
+              "role": "PO",
+              "segment": "NEO",
+              "parentID": "9092167832",
+              "state": "TAMIL NADU",
+              "children": []
+            },
+            {
+              "userName": "HEMANTH  M",
+              "empID": "NPI3708",
+              "role": "SE",
+              "segment": "NEO",
+              "parentID": "9092167832",
+              "state": "TAMIL NADU",
+              "children": [
+                {
+                  "userName": "Rishwanulla Noorulla",
+                  "empID": "8489860220",
+                  "role": "SO",
+                  "segment": "NEO",
+                  "parentID": "NPI3708",
+                  "state": "TAMIL NADU",
+                  "children": []
+                },
+                {
+                  "userName": "Yokesh Kumar",
+                  "empID": "8681016048",
+                  "role": "SO",
+                  "segment": "NEO",
+                  "parentID": "NPI3708",
+                  "state": "TAMIL NADU",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "userName": "SUMITA  HAZARIKA",
+          "empID": "NPI3598",
+          "role": "Lead Operations",
+          "segment": "NEO",
+          "parentID": "NPI3474",
+          "state": "KARNATAKA",
+          "children": [
+            {
+              "userName": "Chandni",
+              "empID": "9566039615",
+              "role": "Ops Trainee",
+              "segment": "NEO",
+              "parentID": "NPI3598",
+              "state": "TAMIL NADU",
+              "children": []
+            },
+            {
+              "userName": "Chandni",
+              "empID": "9566039615",
+              "role": "Ops Trainee",
+              "segment": "NEO",
+              "parentID": "NPI3598",
+              "state": "KARNATAKA",
+              "children": []
+            }
+          ]
+        },
+        {
+          "userName": "ABBINNAYA  D",
+          "empID": "NPI3644",
+          "role": "Service Marketing Manager",
+          "segment": "NEO",
+          "parentID": "NPI3474",
+          "state": "KARNATAKA",
+          "children": []
+        },
+        {
+          "userName": "ROHITH  RAMKISHAN",
+          "empID": "NPI3873",
+          "role": "Neo Partner Manager",
+          "segment": "NEO",
+          "parentID": "NPI3474",
+          "state": "KARNATAKA",
+          "children": []
+        },
+        {
+          "userName": "ADITYA KUMAR TIWARI",
+          "empID": "NPI4146",
+          "role": "CH",
+          "segment": "NEO",
+          "parentID": "NPI3474",
+          "state": "KARNATAKA",
+          "children": [
+            {
+              "userName": "Vacant- SE NB",
+              "empID": "9884399283",
+              "role": "SE",
+              "segment": "NEO",
+              "parentID": "NPI4146",
+              "state": "KARNATAKA",
+              "children": [
+                {
+                  "userName": "Mohommed Ghayaz Shariff",
+                  "empID": "8904904266",
+                  "role": "SO",
+                  "segment": "NEO",
+                  "parentID": "9884399283",
+                  "state": "KARNATAKA",
+                  "children": []
+                },
+                {
+                  "userName": "Santhosh KumarS",
+                  "empID": "9110265546",
+                  "role": "SO",
+                  "segment": "NEO",
+                  "parentID": "9884399283",
+                  "state": "KARNATAKA",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "userName": "DEEPAK KUMAR HU",
+              "empID": "NPI4107",
+              "role": "SE",
+              "segment": "NEO",
+              "parentID": "NPI4146",
+              "state": "KARNATAKA",
+              "children": [
+                {
+                  "userName": "Vinay Kumar S",
+                  "empID": "9663421588",
+                  "role": "SO",
+                  "segment": "NEO",
+                  "parentID": "NPI4107",
+                  "state": "KARNATAKA",
+                  "children": []
+                },
+                {
+                  "userName": "Rakshith Aradhya H N",
+                  "empID": "8861306759",
+                  "role": "SO",
+                  "segment": "NEO",
+                  "parentID": "NPI4107",
+                  "state": "KARNATAKA",
+                  "children": []
+                },
+                {
+                  "userName": "S Lokesh Naidu",
+                  "empID": "9739544122",
+                  "role": "SO",
+                  "segment": "NEO",
+                  "parentID": "NPI4107",
+                  "state": "KARNATAKA",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "userName": "Yeshwanthraya",
+              "empID": "8792444090",
+              "role": "PO",
+              "segment": "NEO",
+              "parentID": "NPI4146",
+              "state": "KARNATAKA",
+              "children": []
+            }
+          ]
+        },
+        {
+          "userName": "AJAY VASUDEVAN",
+          "empID": "9744030000",
+          "role": "Operations Consultant",
+          "segment": "NEO",
+          "parentID": "NPI3474",
+          "state": "KARNATAKA",
+          "children": []
+        }
+      ]
+    }
+  ]

@@ -1,0 +1,18 @@
+/* .App {
+    text-align: center;
+    border: 1px solid gold;
+    height: 100vh;
+  } */
+  
+  .pane {
+    display: inline-block;
+    overflow-y: scroll;
+    height: 300px;
+    border: 1px solid red;
+  }
+/*   
+  li {
+    text-align: left;
+    border: 1px solid green;
+  } */
+  

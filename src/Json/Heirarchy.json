@@ -1,0 +1,158 @@
+[
+  {
+    "userName": "Maniganda",
+    "empID": "NPI0344",
+    "role": "BDM",
+    "segment": "NDPS",
+    "parentID": "NPI2112",
+    "state": "TAMIL NADU",
+    "childs": [
+      {
+        "userName": "Selvakumar MP",
+        "empID": "NPI3730",
+        "role": "BDE",
+        "segment": "NDPS",
+        "parentID": "NPI0344",
+        "state": "TAMIL NADU",
+        "childs": [
+          {
+            "userName": "Antho Rathis",
+            "empID": "9840145279",
+            "role": "PSA",
+            "segment": "NDPS",
+            "parentID": "NPI3730",
+            "state": "TAMIL NADU",
+            "childs": []
+          },
+          {
+            "userName": "Unnikrishnan",
+            "empID": "7305074263",
+            "role": "PSA",
+            "segment": "NDPS",
+            "parentID": "NPI3730",
+            "state": "TAMIL NADU",
+            "childs": []
+          },
+          {
+            "userName": "Gautham",
+            "empID": "7305074260",
+            "role": "PSA",
+            "segment": "NDPS",
+            "parentID": "NPI3730",
+            "state": "TAMIL NADU",
+            "childs": []
+          },
+          {
+            "userName": "Justin Jebakumar",
+            "empID": "9750492911",
+            "role": "PSA",
+            "segment": "NDPS",
+            "parentID": "NPI3730",
+            "state": "TAMIL NADU",
+            "childs": []
+          },
+          {
+            "userName": "Kiran Kumar",
+            "empID": "8489708942",
+            "role": "PSA",
+            "segment": "NDPS",
+            "parentID": "NPI3730",
+            "state": "TAMIL NADU",
+            "childs": []
+          },
+          {
+            "userName": "Manikandan",
+            "empID": "8870382393",
+            "role": "PSA",
+            "segment": "NDPS",
+            "parentID": "NPI3730",
+            "state": "TAMIL NADU",
+            "childs": []
+          },
+          {
+            "userName": "Rahul Harimurugadas",
+            "empID": "9944431156",
+            "role": "PSA",
+            "segment": "NDPS",
+            "parentID": "NPI3730",
+            "state": "TAMIL NADU",
+            "childs": []
+          },
+          {
+            "userName": "Ramu Kadil",
+            "empID": "9952294465",
+            "role": "PSA",
+            "segment": "NDPS",
+            "parentID": "NPI3730",
+            "state": "TAMIL NADU",
+            "childs": []
+          },
+          {
+            "userName": "Sri Hari",
+            "empID": "8015725289",
+            "role": "PSA",
+            "segment": "NDPS",
+            "parentID": "NPI3730",
+            "state": "TAMIL NADU",
+            "childs": []
+          }
+        ]
+      },
+      {
+        "userName": "Balachander",
+        "empID": "NPI4002",
+        "role": "BDE",
+        "segment": "NDPS",
+        "parentID": "NPI0344",
+        "state": "TAMIL NADU",
+        "childs": [
+          {
+            "userName": "Kaleel Basha",
+            "empID": "9342054876",
+            "role": "PSA",
+            "segment": "NDPS",
+            "parentID": "NPI4002",
+            "state": "TAMIL NADU",
+            "childs": []
+          },
+          {
+            "userName": "Syed Nayeem",
+            "empID": "9840989800",
+            "role": "PSA",
+            "segment": "NDPS",
+            "parentID": "NPI4002",
+            "state": "TAMIL NADU",
+            "childs": []
+          },
+          {
+            "userName": "Vinod Kumar",
+            "empID": "9176466069",
+            "role": "PSA",
+            "segment": "NDPS",
+            "parentID": "NPI4002",
+            "state": "TAMIL NADU",
+            "childs": []
+          },
+          {
+            "userName": "Byju",
+            "empID": "7871673140",
+            "role": "PSA",
+            "segment": "NDPS",
+            "parentID": "NPI4002",
+            "state": "TAMIL NADU",
+            "childs": []
+          },
+          {
+            "userName": "Arun Kumar",
+            "empID": "8608778997",
+            "role": "PSA",
+            "segment": "NDPS",
+            "parentID": "NPI4002",
+            "state": "TAMIL NADU",
+            "childs": []
+          }
+        ]
+      }
+    ]
+  }
+]

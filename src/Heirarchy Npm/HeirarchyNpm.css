@@ -1,0 +1,322 @@
+.org-structure.vertical li > div {
+    margin: 12px 6px;
+    border: 1px gray solid;
+    border-radius: 5px;
+    width: 250px;
+}
+
+.cardCss{
+    height: 70vh;
+    width: 100%;
+    margin-bottom:10px;
+    overflow:auto;
+    border: 2px gray solid;
+    display: grid;
+    border-radius: 5px;
+}
+.container-fluid {
+    padding: 0px;
+    height: 87vh !important;
+    width: 195vh
+}
+.header {
+    padding: 15px 15px;
+    display: contents !important;
+    justify-content: space-between;
+    position: sticky;
+    --bs-bg-opacity: 1;
+    z-index: 100;
+    top: 0;
+    box-shadow: 0px 5px 8px -9px rgb(0 0 0 / 75%);
+    width: 100%;
+}
+.css-yfo96e {
+    -webkit-box-flex: 1;
+    -webkit-flex-grow: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    padding: 0px !important;
+    -webkit-transition: margin 195ms cubic-bezier(0.4, 0, 0.6, 1) 0ms;
+    transition: margin 195ms cubic-bezier(0.4, 0, 0.6, 1) 0ms;
+    margin-left: -240px;
+}
+.org-structure.vertical li > div {
+    margin: 12px 6px;
+    border: 1px gray solid;
+    border-radius: 5px;
+    width: 200px;
+}
+.hierarchy_form .card .card-body {
+    padding-bottom: 0.2rem;
+    padding-top: 0.2rem;
+}
+.material-icons-outlined {
+    font-family: 'Material Icons Outlined';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 14px;
+    line-height: 1;
+    letter-spacing: normal;
+    text-transform: none;
+    display: inline-block;
+    white-space: nowrap;
+    word-wrap: normal;
+    direction: ltr;
+    -webkit-font-feature-settings: 'liga';
+    -webkit-font-smoothing: antialiased;
+    margin-top: -5px;
+}
+.dropdown{
+    margin-left: 2px;
+    margin-top: -1px;
+}
+.card-footer:last-child {
+    border-radius: 0 0 calc(0.25rem - 1px) calc(0.25rem - 1px);
+    padding: 4px;
+}
+.card-body {
+    flex: 1 1 auto;
+    padding: 0.5rem 0.5rem;
+}
+.hierarchy_form .card-body {
+    border-style: dashed;
+    border-radius: 4px;
+    border-color: lightgray;
+    border-width: 1px;
+}
+ .TagsHide{
+    display: none;
+}
+.TagsShow{
+    display: block;
+}
+.hierarchy_form .card .form-control {
+    font-weight: 500;
+    font-size: 11px !important;
+}
+.BoxShadow{
+    padding: 0px;
+    box-shadow: #1890ff 0px 0px 3px 1px !important;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+.NipponLappilCard {
+    /* width: 30em; */
+    overflow-x:scroll;
+    white-space: nowrap;
+    height:30px;
+    width:'100%';
+    border:1px solid lightgray
+}
+
+.NipponLappilCard {
+    width:100%;
+    height: 49px;
+    display: flex;
+    overflow-x: auto;
+    overflow-y: hidden;
+  }
+  .Item{
+    text-align:left;
+    user-select: none;
+  }
+  .ItemIcon{
+    margin-left:5px;
+    cursor:pointer
+  }
+  .ItemIcon:hover{
+    color: red;
+  }
+
+  
+  /* .item {
+    width: 100px;
+    flex-shrink: 0;
+    height: 100px;
+  } */
+
+  /* thead, tfoot, tr, td, th {
+    border-color: inherit;
+    border-style: solid;
+    border-width: 0;
+    background-color: gray !important;
+} */
+.my-custom-scrollbar {
+    position: relative;
+    height: 200px;
+    overflow: auto;
+    }
+    .table-wrapper-scroll-y {
+    display: block;
+    }
+
+
+
+    
+.containerTest {
+    position: relative;
+    height: 40px;
+    width: 100%;
+    cursor: ns-resize;
+ }
+ .containerTest > * {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    padding-top: 100%;
+    transform: rotate(-90deg) scalex(-1) translatex(-100%);
+    transform-origin: top left;
+    overflow-y: auto;
+    overflow-x: hidden;
+    cursor: pointer;
+ }
+  .containerTest > * > * {
+    position: absolute;
+    top: 0;
+    left: 100%;
+    width: 100%;
+    transform: rotate(90deg) scaley(-1) translatey(-100%);
+    transform-origin: top left;
+ }
+ .S_ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    white-space: nowrap;
+ }
+ .S_ul > .S_li {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    /* width: 28%; */
+    height: 40px;
+    background: #47cf73;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+ }
+  .scroll-horizonal {
+    overflow-x: auto;
+ }
+  h1 {
+    margin: 10px;
+ }
+  *, *:before, *:after {
+    box-sizing: border-box;
+ }
+  /*Hide Scrollbar*/
+ .containerTest > *::-webkit-scrollbar
+ {
+   width: 0px;
+   opacity: 0;
+   cursor: pointer;
+ }
+
+ .NormalTableRow{
+    background-color: transparent !important;
+    cursor: pointer;
+ }
+ .SelecedTableRow{
+    background-color: lightblue !important;
+    cursor: pointer;
+ }
+.Count{
+    background-color: #212529;
+    min-width: 17px;
+    height: 17px;
+    font-size: 11px;
+    color: white;
+    text-align: center;
+    padding: 0px;
+    margin-left: 20px;
+    margin-top: -4px;
+    position: absolute;
+    z-index: 1;
+    border-radius: 50%;
+}
+.card_Icon{
+    width: 19px;
+    height: 19px;
+    background-size: cover;
+    border-radius: 0px;
+    margin-top: -4px;
+}
+
+
+/* Tooltip CSS */
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black;
+  }
+  
+  .tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+    bottom: 150%;
+    left: 50%;
+    margin-left: -60px;
+  }
+  
+  .tooltip .tooltiptext::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black transparent transparent transparent;
+  }
+  
+  .tooltip:hover .tooltiptext {
+    visibility: visible;
+  }
+
+  .TreeSearchBox{
+    /* background-color: gray; */
+    width: 20%;
+    height: 30px;
+    position: absolute;
+    z-index: 10;
+  }
+
+  .SelectedEmp{
+    /* background-color: lightgreen !important; */
+    box-shadow: rgb(110 254 0 / 55%) 0px 2px 4px 0px, rgb(110 254 0 / 55%) 0px 2px 16px 0px !important;
+  }
+  .MainTextCard_Show
+  {
+    display: block;
+    text-align: center;
+    height: 22px;
+    margin-top: 3px;
+    background-color: rgba(125, 120, 120, 0.938);
+    color: white;
+    border-radius: 3px;
+    
+  }
+  .MainTextCard_Hide
+  {
+    display: none;
+  }
+
+  .cut-text { 
+    text-overflow: ellipsis;
+    line-height: 21px;
+    overflow: hidden;
+    font-size: 10px;
+    width: 189px;
+    height: 25px;
+    white-space: nowrap;
+    text-align: -webkit-center !important;
+    padding: 0px 4px 0px 4px;
+  }
